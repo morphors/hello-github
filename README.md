@@ -1,8 +1,11 @@
 # hello-github
 Estudando este VCS 
 
-Busco Entender
-* Gerenciamento de BRANCHS(versıes)
+Busco Entender no SCM
+* Gerenciamento de BRANCHS(vers√µes)
 * Uso de TAGS
-* 
 
+usar na plataforma github
+* Github Pages
+* issues
+* 
