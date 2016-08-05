@@ -10,7 +10,7 @@ usar na plataforma github
 * issues
 * 
 
-
+Alguns comandos
 git log --date=short --format="%ci"|awk '{print $1}'|uniq # Which days I've worked
 git log --author=$USER --format="- %B" --since=-7days --reverse |mail -s "What I've done this week" boss@company\.com
 git log | awk '/Date/{print " : " $4 " " $3 " " $6}' | uniq -c # To print commits per day for a git repo.
