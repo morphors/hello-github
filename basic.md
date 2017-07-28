@@ -1,11 +1,13 @@
 
-* configurar usu√rio e email
-git config --global 
+* configurar usuario e email
+git config --global user.name "nome"
+git config --global user.email email@mail.com
 
-* iniciar reposit√≥riolocal 
+* iniciar repositorio local
 git init nomedoRepositorio
 
 * clonar repositorio
+git clone enderecoRemoto
 
 * salvar mudancas
 git commit -a -m "alteracao realizada"
