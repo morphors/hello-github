@@ -1,4 +1,3 @@
-
 * configurar usuario e email
 git config --global user.name "nome"
 git config --global user.email email@mail.com

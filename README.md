@@ -9,11 +9,10 @@ usar na plataforma github
 * Github Pages
 * issues
 * branchs
-* ---atualizar de/para repositórios locais---
+* ~~atualizar de/para repositórios loca~~
 * tipos de repositórios
 
 Prioridades
-* Como gerenciar varios repositórios remotos, para o mesmo repositório local
 * Formas de tratar conflitos durante merge
 * diferenças fetch/pull 
 
