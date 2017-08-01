@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-# hello-github
-git SCV (Sistema de controle de Versão)
-Busco Entender no Git
-=======
 ﻿# hello-github
 Estudando este VCS 
 
 Busco Entender no SCM
->>>>>>> 0679cb5e2520436db7a927e41df70c13336bee94
 * Gerenciamento de BRANCHS(versões)
 * Uso de TAGS
 
