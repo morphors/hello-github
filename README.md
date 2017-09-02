@@ -1,7 +1,10 @@
 ﻿# hello-github
 Estudando este VCS 
 
-Busco Entender no SCM
+CVS (Concurrent Version System)
+SCM (source control management)
+vcs (
+Busco Entender no SCM(source control management)
 * Gerenciamento de BRANCHS(versões)
 * Uso de TAGS
 
